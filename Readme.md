@@ -1,4 +1,9 @@
-## 
+### Evaluación Humanly Software <br> 
+
+
+#### Instrucciones de entrega, subir el test a un repositorio de github con el Readme contestado, más una carpeta con el nombre resultados donde vendrá la solución al ejercicio número 7
+
+
 1.- ¿Cómo crear un entorno virtual? (1 puntos).<br>
 R :
 
