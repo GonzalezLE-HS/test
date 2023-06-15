@@ -92,7 +92,7 @@ cadena = '|\^&|P|luis gonzalez|||||||R|1|test1|5|R|2|test2|10^|R|3|test3|85^'
         },{
             'codigo':'test2'
             'resultado': 10
-        },,{
+        },{
             'codigo':'test3'
             'resultado': 85
         }
